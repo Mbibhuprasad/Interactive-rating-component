@@ -143,5 +143,5 @@ button {
 
 @media screen and (max-width:500px) {
     .cardset {
-        flex-basis: 80%;
+        flex-basis: 90%;
     }
